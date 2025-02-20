@@ -1,9 +1,9 @@
 export const siteConfig: SiteConfig = {
-    title: "Hi! Jazee",
+    title: "Hi! Ke Miao",
     language: "zh",
-    description: "Jazee's personal blog. Powered by Astro Blog Theme Blur.",
-    keywords: "Jazee, blog, personal blog, Astro, Astro Blog Theme Blur",
-    author: "Jazee",
+    description: "克喵Kemeow's personal blog. Powered by Astro Blog Theme Blur.",
+    keywords: "克喵Kemeow, blog, personal blog, Astro, Astro Blog Theme Blur",
+    author: "克喵Kemeow",
     avatar: "/avatar.png",
     favicon: "/favicon.png",
     site: "https://jaze.top",
